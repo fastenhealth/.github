@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="https://github.com/fastenhealth/fasten-onprem">
+  <img width="400" alt="fasten_view" src="https://github.com/fastenhealth/fasten-onprem/raw/main/frontend/src/assets/banner/banner.png">
+  </a>
+</p>
+
+
 Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed 
 to integrate with 100,000's of insurance companies, healthcare providers and laboratories. It securely 
 connects patient healthcare providers together, creating a personal health record that never leaves 
